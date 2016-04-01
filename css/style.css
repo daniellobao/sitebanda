@@ -4,3 +4,28 @@
 @import url('http://fonts.googleapis.com/css?family=Kavoon');
 
 /* Inclua abaixo as suas regras de css */
+head{
+	background-color: #0A0A0B;
+}
+
+body{
+	background-color: #0A0A0B;
+
+}
+
+h1{
+	background-color: #0A0A0B;
+	color: white;
+}
+
+p{
+	color:white;
+}
+
+.img_logo{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-left:50px;
+	margin-right:50px;
+}
